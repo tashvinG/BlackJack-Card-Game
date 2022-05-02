@@ -1,1 +1,2 @@
-# fuzzy-telegram
+# A simple version of the very popular casino game, Blackjack (also known as 21). By using Object Oriented Programming concepts , implement the logic for creating a deck, dealing cards, shuffling, betting and more.
+# Have FUN :)
